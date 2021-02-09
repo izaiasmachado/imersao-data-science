@@ -9,3 +9,4 @@ códigos de uso recorrente e notas sobre o funcionamento.
 - [Fatiando arrays](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Fatiando_Arrays.ipynb)
 - [Introdução ao Pandas](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Introdu%C3%A7%C3%A3o_ao_Pandas.ipynb)
 - [Pré-processamento de Dados](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Pr%C3%A9_processamento_de_dados.ipynb)
+- [Introdução à aprendizagem supervisionada KNN](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Introdu%C3%A7%C3%A3o_%C3%A0_aprendizagem_supervisionada_KNN.ipynb)
