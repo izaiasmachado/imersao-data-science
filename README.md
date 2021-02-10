@@ -11,3 +11,4 @@ códigos de uso recorrente e notas sobre o funcionamento.
 - [Pré-processamento de Dados](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Pr%C3%A9_processamento_de_dados.ipynb)
 - [Introdução à aprendizagem supervisionada KNN](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Introdu%C3%A7%C3%A3o_%C3%A0_aprendizagem_supervisionada_KNN.ipynb)
 - [Modelos Lineares – Introdução](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Modelos_Lineares_%E2%80%93_Introdu%C3%A7%C3%A3o.ipynb)
+- [Modelos Lineares – Regressão Linear](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Modelos_Lineares_%E2%80%93_Regress%C3%A3o_Linear.ipynb)
