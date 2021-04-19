@@ -14,3 +14,4 @@ códigos de uso recorrente e notas sobre o funcionamento.
 - [Modelos Lineares – Regressão Linear](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Modelos_Lineares_%E2%80%93_Regress%C3%A3o_Linear.ipynb)
 - [Modelos Lineares – Regressão Logística](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Modelos_Lineares_%E2%80%93_Regress%C3%A3o_Log%C3%ADstica.ipynb)
 - [Modelos Lineares – Naive Bayes](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Modelos_Lineares_%E2%80%93_Naive_Bayes.ipynb)
+- [Modelos Lineares - SVM](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Modelos_Lineares_%E2%80%93_SVM.ipynb)
