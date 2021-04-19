@@ -16,3 +16,4 @@ códigos de uso recorrente e notas sobre o funcionamento.
 - [Modelos Lineares – Naive Bayes](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Modelos_Lineares_%E2%80%93_Naive_Bayes.ipynb)
 - [Modelos Lineares - SVM](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Modelos_Lineares_%E2%80%93_SVM.ipynb)
 - [Simplificando fluxos de trabalho com pipelines](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Simplificando_fluxos_de_trabalho_com_pipelines.ipynb)
+- [Validação Cruzada](https://github.com/izaiasmachado/imersao-em-ciencia-de-dados/blob/main/Notebooks/Valida%C3%A7%C3%A3o_Cruzada.ipynb)
